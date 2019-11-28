@@ -1,0 +1,18 @@
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\bin\Debug\Simple Cash Register Project.exe
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\bin\Debug\Simple Cash Register Project.pdb
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple_Cash_Register_Project.frmMain.resources
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple_Cash_Register_Project.Properties.Resources.resources
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.csproj.GenerateResource.cache
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.exe
+c:\users\student\source\repos\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.pdb
+E:\Simple Cash Register Project\Simple Cash Register Project\bin\Debug\Simple Cash Register Project.exe
+E:\Simple Cash Register Project\Simple Cash Register Project\bin\Debug\Simple Cash Register Project.pdb
+E:\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.csprojAssemblyReference.cache
+E:\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple_Cash_Register_Project.frmMain.resources
+E:\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple_Cash_Register_Project.Properties.Resources.resources
+E:\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.csproj.GenerateResource.cache
+E:\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.csproj.CoreCompileInputs.cache
+E:\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.exe
+E:\Simple Cash Register Project\Simple Cash Register Project\obj\Debug\Simple Cash Register Project.pdb
